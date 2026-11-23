@@ -196,8 +196,18 @@ header h1 {
     line-height: 1.35;
     margin: 0 0 14px;
 }
-.renungan p { margin: 0 0 14px; }
+.renungan p {
+    margin: 0 0 14px;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+}
 .renungan p:last-child { margin-bottom: 0; }
+/* Ayat Arab, terjemah ayat, dan kutipan refleksi tetap rata tengah */
+.renungan p.ayat-arab,
+.renungan p.ayat-teks,
+.renungan p.ayat-sumber,
+.renungan.highlight p.quote { text-align: center; }
 .renungan em { color: var(--text); }
 .sumber { font-size: 0.85rem; color: var(--muted); white-space: nowrap; }
 
