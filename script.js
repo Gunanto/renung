@@ -90,7 +90,7 @@
     // ---------- Bagikan ----------
     var pageUrl = window.location.href;
     var pageTitle = document.title;
-    var shareText = 'Renungan — Mengapa Kita Hidup? Lima renungan singkat tentang tujuan penciptaan, ujian, akhirat, amal, dan tawakal.';
+    var shareText = 'Renungan — Mengapa Kita Hidup? Tujuh renungan singkat tentang tujuan penciptaan, ujian, akhirat, amal, tawakal, syukur, dan ilmu yang bermanfaat.';
     var statusEl = document.getElementById('shareStatus');
 
     function setStatus(msg) {

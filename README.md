@@ -1,6 +1,6 @@
 # Renungan — Mengapa Kita Hidup?
 
-Lima renungan singkat tentang mengapa kita hidup: tujuan penciptaan, hidup sebagai ujian, persiapan akhirat, berbuat baik dan menyayangi, serta berserah diri kepada Allah. Dilengkapi ayat Al-Qur'an (dengan teks Arab), satu hadits, dan doa refleksi hati.
+Tujuh renungan singkat tentang mengapa kita hidup: tujuan penciptaan, hidup sebagai ujian, persiapan akhirat, berbuat baik dan menyayangi, berserah diri kepada Allah, bersyukur, dan ilmu yang bermanfaat. Dilengkapi ayat Al-Qur'an (dengan teks Arab), hadits, dan doa refleksi hati.
 
 Dibuat untuk dibaca pelan-pelan — dan dibagikan.
 
@@ -11,7 +11,9 @@ Dibuat untuk dibaca pelan-pelan — dan dibagikan.
 3. Kita Sedang Menuju Akhirat — HR Muslim no. 2858
 4. Hidup untuk Berbuat Baik dan Menyayangi
 5. Berserah Diri kepada Ketentuan Allah
-6. Refleksi Hati + QS Al-An'am: 162
+6. Bersyukur atas Nikmat yang Sering Terlupakan — QS Ibrahim: 7
+7. Ilmu yang Bermanfaat, Amal yang Tak Pernah Putus — HR Muslim no. 1631
+8. Refleksi Hati + QS Al-An'am: 162
 
 ## Fitur
 
