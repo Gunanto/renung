@@ -100,14 +100,11 @@
     var wa = document.getElementById('shareWa');
     if (wa) wa.href = 'https://wa.me/?text=' + encodeURIComponent(shareText + ' ' + pageUrl);
 
-    var tg = document.getElementById('shareTg');
-    if (tg) tg.href = 'https://t.me/share/url?url=' + encodeURIComponent(pageUrl) + '&text=' + encodeURIComponent(shareText);
-
     var copyBtn = document.getElementById('copyLink');
     if (copyBtn) {
         copyBtn.addEventListener('click', function () {
             function done() {
-                setStatus('Tautan disalin. Silakan tempel di WhatsApp, Telegram, atau grup mana pun.');
+                setStatus('Tautan disalin. Silakan tempel di WhatsApp atau grup mana pun.');
                 copyBtn.textContent = 'Tautan Disalin ✓';
                 setTimeout(function () { copyBtn.textContent = 'Salin Tautan'; }, 2500);
             }

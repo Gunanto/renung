@@ -20,8 +20,8 @@ Dibuat untuk dibaca pelan-pelan — dan dibagikan.
 - Tema gelap (default) dan terang, tersimpan di perangkat pembaca; kalau belum memilih, mengikuti pengaturan sistem
 - Responsif: nyaman dibaca di HP, tablet, dan laptop
 - Navigasi antar-renungan, animasi muncul saat scroll, bilah progres baca, tombol kembali ke atas
-- Tombol bagikan: WhatsApp, Telegram, salin tautan, dan bagikan bawaan perangkat (di HP)
-- Meta description dan Open Graph, supaya tampil rapi saat tautan dibagikan ke WhatsApp/Telegram
+- Tombol bagikan: WhatsApp, salin tautan, dan bagikan bawaan perangkat (di HP)
+- Meta description dan Open Graph, supaya tampil rapi saat tautan dibagikan ke WhatsApp
 - Tanpa build, tanpa backend, tanpa database — cukup buka `index.html`
 
 ## Menjalankan lokal
